@@ -1,5 +1,18 @@
 # Setup
 
+## TODO: video 
+
+**Setup Nvidia Build API and PydanticAI**
+
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/machine_learning/nvidia_build.png?raw=true" alt="" width="600">
+</a>
+
+
+
+
+## Github repo and uv
+
 In the following we'll setup an empty github repository, clone it and then setup virtual environment using the package manager uv.
 
 > [!NOTE]
