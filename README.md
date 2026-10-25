@@ -1,20 +1,39 @@
-# COURSE_NAME
+# AIOps
 
-In this course, you'll dive into: ...
+In this course, you'll dive into working with LLMs and LLMOps including
+
+- Vector database
+- RAG
+- Evaluation
+- LLM judge
+- Hallucination detection
+- Tracing
+- Moniitoring
+- Prompt management and optimization
+- Deployment
+- CI/CD
+- MCP
 
 For this you will be using the following tools:
 
-Prerequisites for this course are:
+- PydanticAI
+- LanceDB
+- FastAPI
+- OpenRouter
+- Logfire
+- Azure
+- Docker
+- Github Actions
+- pymcp
 
-| **Week** | **Content** | **Lectures** | **Exercise** |
-| -------- | ----------- | ------------ | ------------ |
-| 1        |             | 00-04        | 0            |
-| 2        |             |              | 1            |
-| 3        |             |              | 2            |
-| 4        |             |              | 3            |
-| 5        |             |              |              |
-| 6        |             |              |              |
-| 7        |             |              |              |
-| 8        |             |              |              |
+| **Week** | **Content**                                                                    | **Lectures** | **Exercise** |
+| -------- | ------------------------------------------------------------------------------ | ------------ | ------------ |
+| 1        | llm intro, llmops intro, nvidia build, pydanticai, pydantic, structured output | 00-03, a0    | 0            |
+| 2        | pydanticai + fastapi, chatbot                                                  | 04-06        | 1            |
+| 3        | logfire: traces, llm judge, lancedb vector database, rag                       |              | 2            |
+| 4        | rag, project start                                                             |              |              |
+| 5        | dockerization and azure deployment, project                                    |              |              |
+| 6        | github actions and CI/CD, MCP, project                                         |              |              |
+| 7        | project                                                                        |              |              |
 
 
