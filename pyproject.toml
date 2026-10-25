@@ -1,0 +1,11 @@
+[project]
+name = "ai-ops"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "pydantic-ai>=2.61.0",
+    "python-dotenv>=1.2.4",
+]
