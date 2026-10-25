@@ -19,7 +19,6 @@ For this you will be using the following tools:
 - PydanticAI
 - LanceDB
 - FastAPI
-- OpenRouter
 - Logfire
 - Azure
 - Docker
