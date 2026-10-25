@@ -1,11 +1,10 @@
 # Setup
 
-## TODO: video 
 
 **Setup Nvidia Build API and PydanticAI**
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/machine_learning/nvidia_build.png?raw=true" alt="" width="600">
+<a href="https://youtu.be/_wzRJde6r5M" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/nvidia_build.png?raw=true" alt="" width="600">
 </a>
 
 
