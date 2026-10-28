@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "text": "I absolutely loved this damn product! Worst purchase I have made all year. The quality is outstanding and delivery was super slow.",
+    "expected_sentiment": "neutral"
+  },
+  {
+    "id": 2,
+    "text": "Terrible experience. The item arrived broken and customer support ignored my emails for two weeks. Never buying again.",
+    "expected_sentiment": "negative"
+  },
+  {
+    "id": 3,
+    "text": "It is okay. Does what it says on the box, nothing more nothing less. Average quality for the price.",
+    "expected_sentiment": "positive"
+  },
+  {
+    "id": 4,
+    "text": "Absolutely fantastic! Exceeded all my expectations. The design is sleek, the performance is flawless, and the price is unbeatable.",
+    "expected_sentiment": "positive"
+  },
+  {
+    "id": 5,
+    "text": "Disappointed. The color looked different in the photos and the material feels cheap. Not worth the money.",
+    "expected_sentiment": "negative"
+  },
+  {
+    "id": 6,
+    "text": "Received the order on time. Product matches the description. Nothing special but gets the job done.",
+    "expected_sentiment": "neutral"
+  },
+  {
+    "id": 7,
+    "text": "Five stars without hesitation! This has completely changed my daily routine. Highly recommend to everyone.",
+    "expected_sentiment": "positive"
+  },
+  {
+    "id": 8,
+    "text": "Worst product I have ever bought. Stopped working after three days. Absolute waste of money.",
+    "expected_sentiment": "negative"
+  },
+  {
+    "id": 9,
+    "text": "Shipping took longer than expected but the product itself is fine. Would probably buy again if on sale.",
+    "expected_sentiment": "neutral"
+  },
+  {
+    "id": 10,
+    "text": "Amazing build quality and the customer service team was incredibly helpful when I had a question. Will definitely be a returning customer.",
+    "expected_sentiment": "positive"
+  },
+  {
+    "id": 11,
+    "text": "Package arrived damaged and the product inside was scratched. Very frustrating experience overall.",
+    "expected_sentiment": "negative"
+  },
+  {
+    "id": 12,
+    "text": "It works as described. Setup was straightforward and I have not had any issues so far.",
+    "expected_sentiment": "neutral"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a1b2c3d4-0001",
+    "name": "Nike Running Shoes X90",
+    "price": 120.00,
+    "category": "Footwear",
+    "in_stock": true,
+    "description": "The Nike Running Shoes X90 are available for $120.00 in the Footwear section."
+  },
+  {
+    "id": "a1b2c3d4-0002",
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 349.99,
+    "category": "Electronics",
+    "in_stock": true,
+    "description": "Grab the Sony WH-1000XM5 Headphones for just $349.99 — found in the Electronics department."
+  },
+  {
+    "id": "a1b2c3d4-0003",
+    "name": "Dyson V12 Vacuum Cleaner",
+    "price": 599.99,
+    "category": "Home & Garden",
+    "in_stock": false,
+    "description": "The Dyson V12 Vacuum Cleaner is out of stock but available for pre-order at $599.99 in the Home & Garden section."
+  },
+  {
+    "id": "a1b2c3d4-0004",
+    "name": "Adidas Ultraboost 22 Sneakers",
+    "price": 189.95,
+    "category": "Footwear",
+    "in_stock": true,
+    "description": "Priced at $189.95, the Adidas Ultraboost 22 Sneakers are available in our Footwear collection."
+  },
+  {
+    "id": "a1b2c3d4-0005",
+    "name": "Apple iPad Pro 11-inch",
+    "price": 799.00,
+    "category": "Electronics",
+    "in_stock": true,
+    "description": "You can find the Apple iPad Pro 11-inch for $799.00 in the Electronics aisle."
+  },
+  {
+    "id": "a1b2c3d4-0006",
+    "name": "Levi's 501 Original Jeans",
+    "price": 69.50,
+    "category": "Clothing",
+    "in_stock": true,
+    "description": "The Levi's 501 Original Jeans are currently available for $69.50 under our Clothing department."
+  },
+  {
+    "id": "a1b2c3d4-0007",
+    "name": "Bosch Cordless Drill GSR18",
+    "price": 149.00,
+    "category": "Automotive",
+    "in_stock": false,
+    "description": "The Bosch Cordless Drill GSR18 is out of stock but available for pre-order at $149.00 in the Automotive section."
+  },
+  {
+    "id": "a1b2c3d4-0008",
+    "name": "Canon EOS R50 Camera",
+    "price": 679.99,
+    "category": "Electronics",
+    "in_stock": true,
+    "description": "Grab the Canon EOS R50 Camera for just $679.99 — available in the Electronics section."
+  },
+  {
+    "id": "a1b2c3d4-0009",
+    "name": "Philips Air Purifier 3000i",
+    "price": 299.95,
+    "category": "Home & Garden",
+    "in_stock": true,
+    "description": "Priced at $299.95, the Philips Air Purifier 3000i is available in our Home & Garden collection."
+  },
+  {
+    "id": "a1b2c3d4-0010",
+    "name": "Samsung Galaxy Watch 6",
+    "price": 299.00,
+    "category": "Electronics",
+    "in_stock": false,
+    "description": "The Samsung Galaxy Watch 6 is out of stock but available for pre-order at $299.00 in the Electronics department."
+  }
+]
