@@ -29,7 +29,7 @@ For this you will be using the following tools:
 | -------- | ------------------------------------------------------------------------------ | ------------ | ------------ |
 | 1        | llm intro, llmops intro, nvidia build, pydanticai, pydantic, structured output | 00-03, a0    | 0            |
 | 2        | pydanticai + fastapi, chatbot, tool use                                        | 04-06        | 1            |
-| 3        | logfire: traces, llm judge, lancedb vector database, rag                       |              | 2            |
+| 3        | multi agent, logfire: traces, llm judge, lancedb vector database, rag          | 07           | 2            |
 | 4        | rag, project start                                                             |              |              |
 | 5        | dockerization and azure deployment, project                                    |              |              |
 | 6        | github actions and CI/CD, MCP, project                                         |              |              |
