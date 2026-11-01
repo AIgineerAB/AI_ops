@@ -12,4 +12,3 @@ def nvidia_model(model_name: str) -> OpenAIChatModel:
             base_url="https://integrate.api.nvidia.com/v1", api_key=os.environ["NVIDIA_API"]
         ),
     )
-
