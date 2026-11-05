@@ -10,6 +10,8 @@
 
 ## Setup
 
+Create an account and sign into [logfire](https://logfire-eu.pydantic.dev/login?from=%2Fsignup)
+
 ```bash
 uv add logfire
 uv run logfire auth
