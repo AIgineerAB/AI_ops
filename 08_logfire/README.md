@@ -1,4 +1,4 @@
-# Pydantic Logfire for Observability
+# Pydantic Logfire for Monitoring and Observability
 
 **Part 1 - logging and prompt management**
 
