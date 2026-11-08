@@ -1,4 +1,4 @@
-# Exercise 1 - PydanticAI, FastAPI and LLM judge
+# Exercise 1 - PydanticAI, FastAPI 
 
 In this exercise, you get to work with fastapi to serve PydanticAI models to different endpoints and then consume these endpoints. 
 

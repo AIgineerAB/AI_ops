@@ -15,6 +15,8 @@ Create an account and sign into [logfire](https://logfire-eu.pydantic.dev/login?
 ```bash
 uv add logfire
 uv run logfire auth
+uv add "logfire[variables]"
+uv add "logfire[system-metrics]"
 ```
 
 ## Concepts
