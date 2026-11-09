@@ -1,14 +1,25 @@
 # LanceDB to be used as vector database
 
+**part 1 - lancedb basics**
+
 <a href="https://youtu.be/pQMEhbrXT4A" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/lancedb_tutorial.png?raw=true" alt="pydantic for data validation" width="600">
+</a>
+
+<br>
+<br>
+
+**part 2 - lancedb custom embeddings**
+
+<a href="https://youtu.be/GDJuPBRn7aM" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/lancedb_custom.png?raw=true" alt="pydantic for data validation" width="600">
 </a>
 
 
 ## Setup 
 
 ```bash
-uv add lancedb
+uv add lancedb sentence-transformer
 ```
 
 You need to put in this into your .env 
