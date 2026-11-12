@@ -1,9 +1,7 @@
 import logfire
 from logfire import VariablesOptions
-from pydantic import BaseModel
 import os
 from dotenv import load_dotenv
-from pydantic_ai_harness.logfire import ManagedPrompt
 
 load_dotenv()
 
