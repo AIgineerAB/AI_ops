@@ -19,7 +19,7 @@
 ## Setup 
 
 ```bash
-uv add lancedb sentence-transformer
+uv add lancedb sentence-transformers
 ```
 
 You need to put in this into your .env 
