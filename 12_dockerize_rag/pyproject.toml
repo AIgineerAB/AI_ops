@@ -1,0 +1,16 @@
+[project]
+name = "rag-dockerize"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel",
+    "pypdf>=7.1.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "backend",
+    "frontend",
+]

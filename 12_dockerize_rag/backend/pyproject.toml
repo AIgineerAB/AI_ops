@@ -1,0 +1,15 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [{ name = "kokchun", email = "kokchungiang@gmail.com" }]
+requires-python = ">=3.13"
+dependencies = ["lancedb", "pydantic-ai", "fastapi", "logfire", "logfire[fastapi]", "cohere"]
+
+[project.scripts]
+backend = "backend:main"
+
+[build-system]
+requires = ["uv_build>=0.12.6,<0.13"]
+build-backend = "uv_build"
