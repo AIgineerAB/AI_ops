@@ -1,7 +1,7 @@
 # Dockerize RAG
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/.png?raw=true" alt="dockerize rag" width="600">
+<a href="https://youtu.be/F2TmqZo8EUk" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/docker_rag2.png?raw=true" alt="dockerize rag" width="600">
 </a>
 
 ## Setup 
