@@ -1,12 +1,10 @@
-# Pydantic Logfire for Monitoring and Observability
+# LLM Judge in Pydantic Logfire
 
-**Part 1 - logging and prompt management**
-
-<a href="https://www.youtube.com/watch?v=hG-jJy2o5Ok" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/logfire.png?raw=true" alt="pydantic ai tool use" width="600">
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/llm_judge.png?raw=true" alt="llm judge" width="600">
 </a>
 
-<!-- **Part 2 - LLM judge** -->
+
 
 ## Setup
 

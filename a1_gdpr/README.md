@@ -11,6 +11,7 @@
 
 ## Read more 👓
 - [official GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng#art_5)
+- [enforcement tracker](https://www.enforcementtracker.com/)
 
 
 In swedish
