@@ -1,6 +1,6 @@
 # LLM Judge in Pydantic Logfire
 
-<a href="" target="_blank">
+<a href="https://youtu.be/5Vpf_PV2vA8" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/ai_engineering/llm_judge.png?raw=true" alt="llm judge" width="600">
 </a>
 
